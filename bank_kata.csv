@@ -1,0 +1,486 @@
+No,Kata Tunggal,Arti,Jamak Taksir,Arti Jamak,Contoh Kalimat,Terjemah
+1,كَلْبٌ,anjing,أَكْلابٌ,anjing-anjing,نَبَحَ الْكِلَابُ بِصَوْتٍ عَالٍ,Anjing-anjing menggonggong dengan keras
+2,فَرَسٌ,kuda,أَفْراسٌ,kuda-kuda,رَكِبَ الْجُنُوْدُ ظُهُوْرَ الْأَفْرَاسِ,Para tentara menunggangi kuda-kuda
+3,بَقَرَةٌ,sapi,أَبْقَارٌ,sapi-sapi,رَعَى أَبِيْ أَبْقَارَهُ فِيْ حَقْلٍ,Ayahku menggembala sapi-sapinya di ladang
+4,جَمَلٌ,unta,أَجْمَالٌ,unta-unta,تَشْرَبُ الْجَمَالُ الْكَثِيْرَ مِنَ المَاءِ,Unta-unta meminum air banyak sekali
+5,دَجَاجَةٌ,ayam,أَدْجَاجٌ,ayam-ayam,رَكَِضَ الّدَّجَاجُ إِذَا نَزَلَ الْمَطَرُ,Ayam-ayam berlari saat turunnya hujan
+6,غَزَالٌ,rusa,أَغْزَالٌ,rusa-rusa,رَأَيْتُ أَغْزَالًا فِيْ حَدِيْقَةِ حَيَوَانَاتٍ,Aku melihat rusa-rusa di kebun binatang
+7,سَمَكَةٌ,ikan,أَسْماكٌ,ikan-ikan,قَدْ أَكَلَتْ تِلْكَ الْقِطَّةُ أَسْمَاكِيْ,Sungguh kucing itu telah memakan ikan-ikanku
+8,دُبٌّ,beruang,أَدْبَابٌ,beruang-beruang,الدُّبَّةُ تَعِيشُ في الجُحورِ في الغاباتِ.,Beruang-bearuang hidup di dalam gua-gua di hutan.
+9,حِمَارٌ,keledai,أَحْمَارٌ,keledai-keledai,الحُمُرُ تُستَخدَمُ لِنَقلِ الحُمُولَةِ في المناطِقِ الجَبَلِيَّةِ.,Keledai-keledai digunakan untuk mengangkut beban di daerah-daerah pegunungan.
+10,ذِئْبٌ,serigala,أَذْآبٌ,serigala-serigala,الذِّئَابُ تَصطادُ الفَرائِسَ في الغاباتِ.,Serigala-serigala memburu mangsa di hutan.
+11,زَرَافَةٌ,jeparah,أَزْرَافٌ,jerapah-jerapah,الزَّرَافَاتُ لَهَا أَعنَاقٌ طَوِيلَةٌ لِتَصلُ إلى أَعلَى الأَغصَانِ.,Jerapah-jerapah memiliki leher panjang untuk mencapai daun-daun pohon yang tinggi.
+12,كِتَابٌ,buku,أَكْتَبٌ,buku-buku,الكُتُبُ تَتنَوَّعُ في المَكتَبَةِ بِمَواضِيعِهَا وأَلوانِهَا.,Buku-buku beragam topik dan warnanya di perpustakaan.
+13,قَلَمٌ,pena,أَقْلَامٌ,pena-pena,الأَقلامُ مُتَنَوِّعَةٌ وَتُستَخدَمُ لِلكِتابَةِ والرِّسَمِ.,Pulpen-pulpen bervariasi dan digunakan untuk menulis dan menggambar.
+14,بَيْتٌ,rumah,أَبْيُوتٌ,rumah-rumah,البُيُوتُ في القَريَةِ مُبنِيَةٌ بِالطُّوبِ والحَجَرِ.,Rumah-rumah di desa dibangun dengan bata dan batu.
+15,شَجَرَةٌ,pohon,أَشْجَارٌ,pohon-pohon,الشَّجَرُ يُوفِّرُ الظِّلَّ والأكسِجينَ لِلهَواءِ في الطَّبيعَةِ.,Pohon-pohon menyediakan teduh dan oksigen bagi udara di alam.
+16,وَرْدَةٌ,bunga,أَوْرَادٌ,bunga-bunga,لوَرَدُ مِنَ الزَّهْرِ فِي الحَدِيقَةِ يَعْطِي رَائِحَةً جَمِيلَةً.,Bunga-bunga mawar di taman memberikan aroma yang indah.
+17,سَيَّارَةٌ,mobil,أَسْيَارٌ,mobil-mobil,السَّيَّارَاتُ تَسْتَخْدِمُ فِي النَّقْلِ اليَوْمِيِّ إلَى العَمَلِ.,Mobil-mobil digunakan untuk transportasi sehari-hari ke tempat kerja.
+18,حَاسُوبٌ,komputer,أَحْسَابٌ,komputer-komputer,الأَحْسَابُ الإلِكْتْرونِيَّةُ تُسَاعِدُ فِي العَمَلِ الإدَارِيِّ.,Komputer-komputer elektronik membantu dalam pekerjaan administratif.
+19,قِطٌّ,kucing,أَقْطَطٌ,kucing-kucing,القِطَطُ تَحِبُّ اللَّعِبَ وَالنَّوْمَ.,Kucing-kucing suka bermain dan tidur.
+20,مَدْرَسَةٌ,sekolah,أَمْدَارٌ,sekolah-sekolah,المَدَارِسُ تُعْلِمُ الطُّلَّابَ العِلْمَ وَالمَعْرِفَةَ.,Sekolah-sekolah mengajarkan ilmu pengetahuan dan pengetahuan kepada siswa.
+21,مُسْتَشْفَىٰ,rumah sakit,أَمْسَافٍ,rumah sakit-rumah sakit,المُسْتَشْفَيَاتُ تَقْدِمُ الرِّعَايَةَ الصِّحِّيَّةَ لِلْمَرْضَى.,Rumah sakit menyediakan perawatan medis bagi pasien.
+22,مَسْجِدٌ,masjid,أَمْسَاجِدٌ,masjid-masjid,الْمَسَاجِدُ مَكَانٌ لِلصَّلاَةِ وَالتَّعَبُّدِ.,Masjid-masjid adalah tempat untuk salat dan ibadah.
+23,جَامِعَةٌ,universitas,أَجَامِعٌ,universitas-universitas,الجَامِعَاتُ تُقَدِّمُ التَّعْلِيمَ العُلْيَا لِلطُّلَّابِ.,Universitas-universitas memberikan pendidikan tinggi kepada mahasiswa.
+24,كُرْسِيٌّ,kursi,أَكْرَاسٌ,kursi-kursi,الكُرَاسِيُّ مَوْجُودَةٌ فِي الصَّالَةِ لِلضُّيُوفِ لِلجُلُوسِ.,Kursi-kursi tersedia di ruang tamu untuk tamu duduk.
+25,طَاوِلَةٌ,meja,أَطْوَالٌ,meja-meja,الطَّوَاوِلُ فِي الغُرْفَةِ تُسَاعِدُ فِي تَنَاوُلِ الطَّعَامِ وَالقِرَاءَةِ.,Meja-meja di ruang menolong dalam makan dan membaca.
+26,مِفْتَاحٌ,kunci,أَمْفَاتٌ,kunci-kunci,لمَفَاتِيحُ عَلى الطَّاوِلَةِ في المَنْزِلِ.,Kunci-kunci ada di atas meja di rumah.
+27,سَاعَةٌ,jam,أَسَاعٍ,jam-jam,السَّاعَاتُ تُظْهِرُ الوَقْتَ بِدَقَّةٍ كُلَّ سَاعَةٍ.,Jam-jam menunjukkan waktu dengan tepat setiap jamnya.
+28,غُرْفَةٌ,ruangan,أَغْرُفٌ,ruangan-ruangan,الغُرَفُ فِي الفِنْدَقِ كَانَتْ وَاسِعَةً وَمُرِيحَةً.,Kamar-kamar di hotel itu luas dan nyaman.
+29,جَدِيدٌ,kakek,أَجْدَادٌ,kakek-nenek,الجُدُدُ مُتَوَفِّرَةٌ فِي السُّوقِ الآن.,Barang-barang baru tersedia di pasar sekarang.
+30,شَارِعٌ,jalan,أَشْوَارٌ,jalan-jalan,الشُّوَارِعُ مَزْدَحِمَةٌ خَلَالَ فَتْرَاتِ الذُّروَةِ.,Jalan-jalan ramai selama jam sibuk.
+31,عُمْرٌ,umur,أَعْمَارٌ,umur-umur,الأَعْمَارُ تُعْتَبَرُ مِنْ أَسَاسِ الْخُبرَةِ وَالْحِكْمَةِ.,Umur-umur dianggap sebagai dasar pengalaman dan kebijaksanaan.
+32,حَيَوَانٌ,hewan,أَحْيَاءٌ,hewan-hewan,الحَيَوَانَاتُ فِي الغَابَةِ تَبْحَثُ عَنْ الطَّعَامِ وَالمَأْوَى.,Hewan-hewan di hutan mencari makanan dan tempat berlindung.
+33,طَبِيبٌ,dokter,أَطْبَابٌ,dokter-dokter,الأَطْبَاءُ يَعْمَلُونَ بِالْمُسْتَشْفَيَاتِ لِمُعَالَجَةِ الْمَرْضَى.,Dokter-dokter bekerja di rumah sakit untuk merawat pasien.
+34,كَاتِبٌ,penulis,أَكَاتِيبٌ,penulis-penulis,الكُتَّابُ يُنْشِرُونَ أَعْمَالَهُمْ عَنْ طَرِيقِ النَّشْرِ.,Penulis-penulis menerbitkan karya-karya mereka melalui penerbitan.
+35,مُمَرِّضٌ,perawat,أَمْمَارِضٌ,perawat-perawat,الْمُمَرِّضُونَ يُقْدِمُونَ الرِّعَايَةَ لِلْمَرْضَى فِي الْمُسْتَشْفَيَاتِ.,Perawat-perawat memberikan perawatan kepada pasien di rumah sakit.
+36,طالب,siswa,طلاب,para siswa,الطُّلَّابُ يَدْرُسُونَ بِجَدٍّ فِي الْمَدَارِسِ لِنَجَاحِهِمْ.,Mahasiswa-mahasiswa belajar dengan tekun di sekolah untuk kesuksesan mereka.
+37,باب,pintu,أبواب,pintu-pintu,الأَبْوَابُ فِي الْمَنْزِلِ تَحْمِي مِنَ الْخَارِجِ.,Pintu-pintu di rumah melindungi dari luar.
+38,كتاب,buku,كتب,buku-buku,الْكُتُبُ مَوْجُودَةٌ عَلَى الرَّفِّ فِي الْمَكْتَبَةِ.,Buku-buku tersedia di rak-rak di perpustakaan.
+39,مسجد,masjid,مساجد,masjid-masjid,الْمَسَاجِدُ مَكَانٌ لِلصَّلاَةِ وَالتَّعَبُّدِ لِلْمُسْلِمِينَ.,Masjid-masjid adalah tempat untuk salat dan ibadah bagi umat Islam.
+40,دار,rumah,دور,rumah-rumah,الدُّوُرُ السَّكَنِيَّةُ فِي الْحَيِّ هِيَ مَكَانٌ لِلْإِقَامَةِ.,Rumah-rumah perumahan di lingkungan adalah tempat tinggal.
+41,جبل,gunung,جبال,gunung-gunung,الْجِبَالُ تُعْتَبَرُ مِنْ أَعْلَى نُقُطِ الأَرْضِ.,Gunung-gunung dianggap sebagai titik tertinggi di Bumi.
+42,مدينة,kota,مدن,kota-kota,الْمُدُنُ تُعْتَبَرُ مِنْ أَكْبَرِ الأَحْيَاءِ الْبَشَرِيَّةِ.,Kota-kota dianggap sebagai pusat kehidupan manusia yang besar.
+43,معلم,guru,معلمون,para guru,الْمُعَلِّمُونَ يُعَلِّمُونَ الطُّلَّابَ الْمَوَادَ الدِّرَاسِيَّةَ.,Guru-guru mengajar siswa-siswa mata pelajaran sekolah.
+44,سيارة,mobil,سيارات,mobil-mobil,السَّيَّارَاتُ تُسْتَخْدَمُ كَوسِيلَةِ لِلتَّنْقِلِ بَيْنَ الأَمَاكِنِ.,Mobil-mobil digunakan sebagai sarana transportasi antara tempat-tempat.
+45,دكان,toko,دكاكين,toko-toko,الدُّكَاكِينُ تُوَفِّرُ السَّلْعَ الْيَوْمِيَّةَ لِلنَّاسِ فِي السُّوقِ.,Toko-toko menyediakan barang-barang sehari-hari untuk orang-orang di pasar.
+46,قلم,pena,أقلام,pena-pena,الأَقْلَامُ مُهَمَّةٌ لِلْكِتَابَةِ وَالرَّسْمِ.,Pulpen-pulpen penting untuk menulis dan menggambar.
+47,مدرسة,sekolah,مدارس,sekolah-sekolah,الْمَدَارِسُ تُعْلِمُ الطُّلَّابَ مُجَمَّعَةً عَنْ الْمَوَادِ الدِّرَاسِيَّةِ.,Sekolah-sekolah mengajarkan siswa-siswa tentang mata pelajaran sekolah.
+48,طالب,murid,طلبة,para murid,الطُّلَّابُ يَذْهَبُونَ إِلَى الْمَدَرَسَةِ يَوْمِيًّا لِلدِّرَاسَةِ.,Siswa-siswa pergi ke sekolah setiap hari untuk belajar.
+49,عامل,pekerja,عمال,para pekerja,الْعُمَّالُ يَعْمَلُونَ بِجِدٍّ فِي مَوَاقِعِ الْعَمَلِ.,Pekerja-pekerja bekerja keras di lokasi-lokasi kerja.
+50,تاجر,pedagang,تجار,para pedagang,التُّجَّارُ يَبِيعُونَ السُّلَعَ وَيَشْتَرُونَهَا لِبَيْعِهَا لِلزَّبَائِنِ.,Pedagang-pedagang menjual dan membeli barang untuk dijual kepada pelanggan.
+51,درس,pelajaran,دروس,pelajaran-pelajaran,دُرُوسِ فِي الْمَدْرَسَةِ مُفِيدَةٌ لِلطُّلَّابِ.,Pelajaran di sekolah bermanfaat bagi siswa.
+52,وقت,waktu,أوقات,waktu-waktu,الْأَوْقَاتُ تَمُرُّ بِسُرْعَةٍ عِنْدَمَا نَكُونُ مُشْغَلِينَ.,Waktu berlalu dengan cepat ketika kita sibuk.
+53,كتاب,kitab,كتب,kitab-kitab,الْكُتُبُ فِي الْمَكْتَبَةِ مُتَنَوِّعَةٌ وَمُفِيدَةٌ لِلْقِرَاءَةِ.,Buku-buku di perpustakaan bervariasi dan bermanfaat untuk dibaca.
+54,رجل,pria,رجال,para pria,الرِّجَالُ فِي الْقَرْيَةِ يَعْمَلُونَ فِي الْحُقُولِ.,Para pria di desa bekerja di ladang.
+55,امرأة,wanita,نساء,wanita-wanita,النِّسَاءُ فِي الْجَمْعِيَّةِ يُنَظِّمْنَ فَعَالِيَّاتٍ اجْتِمَاعِيَّةً.,Para wanita di perkumpulan mengatur acara sosial.
+56,طالب,siswa,طلاب,siswa-siswa,الطُّلَّابُ فِي الْجَامِعَةِ يَدْرُسُونَ مَوَادًا مُتَنَوِّعَةً.,Mahasiswa di universitas belajar berbagai mata pelajaran.
+57,بيت,rumah,بيوت,rumah-rumah,الْبُيُوتُ فِي الْحَيِّ بُنِيَتْ بِتَصَامِيمَ جَمِيلَةٍ.,Rumah-rumah di lingkungan dibangun dengan desain yang indah.
+58,مكتب,meja,مكاتب,meja-meja,الْمَكَاتِبُ فِي الشَّرِكَةِ مُجَهَّزَةٌ بِكُلِّ التَّقْنِيَّاتِ الْحَدِيثَةِ.,Kantor-kantor di perusahaan dilengkapi dengan teknologi modern.
+59,صحيفة,koran,صحف,koran-koran,الصُّحُفُ فِي الصَّحَافَةِ تُعَرِّضُ الْأَخْبَارَ الْيَوْمِيَّةَ.,Surat kabar di media cetak menampilkan berita harian.
+60,نهر,sungai,أنهار,sungai-sungai,الْأَنْهَارُ فِي الْبِلَادِ تُوَفِّرُ مَصَادِرَ مَيَاهٍ غَنِيَّةٍ.,Sungai-sungai di negara ini menyediakan sumber air yang kaya.
+61,شجرة,pohon,أشجار,pohon-pohon,شُجَارُ الْغَابَةِ تُوَفِّرُ الظِّلَّ.,Pohon-pohon di hutan menyediakan tempat teduh.
+62,باب,pintu,أبواب,pintu-pintu,أَبْوَابُ الْبُيُوتِ مُصْنَعَةٌ مِنَ الْخَشَبِ.,Pintu-pintu rumah terbuat dari kayu.
+63,رجل,laki-laki,رجال,laki-laki (banyak),رِجَالُ الشُّرْطَةِ يُحَافِظُونَ عَلَى الْأَمْنِ.,Polisi menjaga keamanan.
+64,فتاة,gadis,فتيات,gadis-gadis,فَتَيَاتُ الْمَدْرَسَةِ يَشَارِكْنَ فِي الْأَنْشِطَةِ.,Gadis-gadis sekolah berpartisipasi dalam kegiatan.
+65,طالب,pelajar,طلبة,pelajar-pelajar,طُلَّابُ الْجَامِعَةِ يَدْرُسُونَ بِجِدٍّ.,Mahasiswa universitas belajar dengan giat.
+66,بحر,laut,بحار,laut-laut,بُحَارُ الْعَالَمِ مَلِيئَةٌ بِالْأَسْرَارِ.,Lautan di dunia penuh dengan rahasia.
+67,طريق,jalan,طرق,jalan-jalan,طُرُقُ الْمَدِينَةِ مُزْدَحِمَةٌ.,Jalan-jalan kota padat.
+68,كلب,anjing,كلاب,anjing-anjing,كِلَابُ الْجِيَارِ تُحَرِّسُ الْمَنَازِلَ.,Anjing-anjing tetangga menjaga rumah.
+69,زهرة,bunga,زهور,bunga-bunga,زُهُورُ الْحَدِيقَةِ تَنْمُو بِشَكْلٍ جَمِيلٍ.,Bunga-bunga di taman tumbuh dengan indah.
+70,كتاب,buku,كتب,buku-buku,كُتُبُ الْمَكْتَبَةِ مُفِيدَةٌ لِلْقِرَاءَةِ.,Buku-buku di perpustakaan bermanfaat untuk dibaca.
+71,طالب,murid,طلبة,para murid,طُلَّابُ الصَّفِّ يَحْضُرُونَ الدُّرُوسَ بِانْتِظَامٍ.,Siswa-siswa di kelas hadir dalam pelajaran secara teratur.
+72,مريض,pasien,مرضى,para pasien,مَرْضَى الْمُسْتَشْفَى يَتَلَقَّوْنَ الْعِلاَجَ.,Pasien-pasien di rumah sakit menerima perawatan.
+73,حجر,batu,أحجار,batu-batu,أَحْجَارُ الْبَحْرِ نَاعِمَةٌ.,Batu-batu laut halus.
+74,عالم,ilmuwan,علماء,para ilmuwan,عُلَمَاءُ الْفَلَكِ يَدْرُسُونَ النُّجُومَ.,Astronom mempelajari bintang-bintang.
+75,قلم,pena,أقلام,pena-pena,قْلاَمُ الرَّصَاصِ مُفِيدَةٌ لِلرَّسْمِ.,Pensil berguna untuk menggambar.
+76,كتاب,kitab,كتب,kitab-kitab,كُتُبُ الْأَدَبِ مُمْتَعَةٌ لِلْقِرَاءَةِ.,Buku-buku sastra menyenangkan untuk dibaca.
+77,طائر,burung,طيور,burung-burung,طَيُورُ الْحَدِيقَةِ تَغْنِي فِي الصَّبَاحِ.,Burung-burung di taman bernyanyi di pagi hari.
+78,شباك,jendela,شبابيك,jendela-jendela,شَبَابِيكُ الْمَنَازِلِ الْقَدِيمَةِ مُزَخَّرَفَةٌ.,Jendela-jendela rumah tua dihias.
+79,شارع,jalan,شوارع,jalan-jalan,شَوَارِعُ الْعَاصِمَةِ مُزْدَحِمَةٌ بِالسِّيَارَاتِ.,Jalan-jalan ibu kota padat dengan mobil.
+80,ملك,raja,ملوك,para raja,مُلُوكُ التَّارِيخِ كَانَ لَهُمْ تَأْثِيرٌ كَبِيرٌ.,Raja-raja dalam sejarah memiliki pengaruh besar.
+81,نجم,bintang,نجوم,bintang-bintang,نُجُومُ السَّمَاءِ تُضِيءُ اللَّيْلَ.,Bintang-bintang di langit menerangi malam.
+82,دفت,buku catatan,دفاتر,buku catatan,دَفَاتِرُ الْمَدْرَسَةِ مُلْوَنَةٌ.,Buku tulis sekolah berwarna-warni.
+83,يوم,hari,أيام,hari-hari,أَيَّامُ الْأَسْبُوعِ سَبْعَةٌ.,Hari-hari dalam minggu ada tujuh.
+84,جبل,gunung,جبال,gunung-gunung,جِبَالُ الْأَلْبِ رَائِعَةٌ.,Pegunungan Alpen menakjubkan.
+85,باب,pintu,أبواب,pintu-pintu,أَبْوَابُ الْمَدَارِسِ مَغْلُقَةٌ فِي اللَّيْلِ.,Pintu-pintu sekolah ditutup pada malam hari.
+86,بيت,rumah,بيوت,rumah-rumah,بُيُوتُ الْقَرْيَةِ تَقْلِيدِيَّةٌ.,Rumah-rumah di desa tradisional.
+87,مسجد,masjid,مساجد,masjid-masjid,مَسَاجِدُ الْمَدِينَةِ مَلِيئَةٌ بِالْمُصَلِّينَ.,Masjid-masjid di kota penuh dengan jamaah.
+88,جبل,gunung,جبال,gunung-gunung,جِبَالُ الْأَطْلَسِ شَاهِقَةٌ.,Pegunungan Atlas menjulang tinggi.
+89,كتاب,buku,كتب,buku-buku,كُتُبُ الْفَلْسَفَةِ عَمِيقَةٌ.,Buku-buku filsafat mendalam.
+90,معلم,guru,معلمون,para guru,مُعَلِّمُونَ الْمَدْرَسَةِ يُسَاعِدُونَ الطُّلَّابَ.,Guru-guru di sekolah membantu siswa.
+91,بحر,laut,بحار,laut-laut,بُحَارُ الْمَحِيطِ وَاسِعَةٌ.,Lautan di samudera luas.
+92,درس,pelajaran,دروس,pelajaran-pelajaran,دُرُوسُ الْعُلُومِ مُفِيدَةٌ.,Pelajaran ilmu pengetahuan bermanfaat.
+93,سيارة,mobil,سيارات,mobil-mobil,سِيَارَاتُ الْأَجْرَةِ سَرِيعَةٌ.,Taksi-taksi cepat.
+94,وقت,waktu,أوقات,waktu-waktu,أَوْقَاتُ الْفَرَاغِ مُهِمَّةٌ.,Waktu luang penting.
+95,دكان,toko,دكاكين,toko-toko,دُكَاكِينُ السُّوقِ مُتَنَوِّعَةٌ.,Toko-toko di pasar beragam.
+96,قلم,pena,أقلام,pena-pena,أَقْلاَمُ الْحِبْرِ مُفِيدَةٌ.,Pulpen berguna.
+97,مدرسة,sekolah,مدارس,sekolah-sekolah,مَدَارِسُ الْقَرْيَةِ صَغِيرَةٌ.,Sekolah-sekolah di desa kecil.
+98,معلم,guru,معلمون,para guru,مُعَلِّمُونَ الرِّيَاضِيَّاتِ مُتَمِّمُونَ.,Guru-guru matematika istimewa.
+99,طالب,murid,طلبة,para murid,طُلَّابُ الْمَدْرَسَةِ مُجْتَهِدُونَ.,Siswa-siswa sekolah rajin.
+100,عامل,pekerja,عمال,para pekerja,عُمَّالُ الْبِنَاءِ يَبْنُونَ الْمَنَازِلَ.,Pekerja konstruksi membangun rumah.
+101,تاجر,pedagang,تجار,para pedagang,جَّارُ السُّوقِ نَشِطُونَ.,Pedagang di pasar giat.
+102,تلميذ,murid,تلاميذ,murid-murid,تِلَامِيذُ الْفَصْلِ يَدْرُسُونَ بِجِدٍّ.,Siswa-siswa di kelas belajar dengan giat.
+103,ملك,raja,ملوك,para raja,مُلُوكُ التَّارِيخِ كَانُوا عُظَمَاءَ.,Raja-raja dalam sejarah hebat.
+104,حيوان,hewan,حيوانات,hewan-hewan,حَيَوَانَاتُ الْحَدِيقَةِ مُتَنَوِّعَةٌ.,Hewan-hewan di taman beragam.
+105,طبيب,dokter,أطباء,para dokter,أَطْبَاءُ الْمُسْتَشْفَىٰ مُتَخَصِّصُونَ.,Dokter-dokter di rumah sakit ahli.
+106,باب,pintu,أبواب,pintu-pintu,أَبْوَابُ الْمَكَاتِبِ مَغْلُقَةٌ.,Pintu-pintu kantor tertutup.
+107,شجرة,pohon,أشجار,pohon-pohon,أَشْجَارُ الْحَدِيقَةِ خَضْرَاءُ.,Pohon-pohon di taman hijau.
+108,جبل,gunung,جبال,gunung-gunung,جِبَالُ الْهِمَلاَيَا شَاهِقَةٌ.,Pegunungan Himalaya menjulang tinggi.
+109,فندق,hotel,فنادق,hotel-hotel,فُنَادِقُ الْمَدِينَةِ فَخِمَةٌ.,Hotel-hotel di kota mewah.
+110,مطعم,restoran,مطاعم,restoran-restoran,مَطَاعِمُ الْحَيِّ تَقْدِمُ أَطْعِمَةً لَذِيذَةً.,Restoran-restoran di lingkungan menyajikan makanan lezat.
+111,كرسي,kursi,كراسي,kursi-kursi,الْكُرَاسِيُّ فِي الصَّفِّ مُرِيحَةٌ.,Kursi di kelas nyaman.
+112,بنت,anak perempuan,بنات,anak-anak perempuan,الْبَنَاتُ يَلْعَبْنَ فِي الْحَدِيقَةِ.,Gadis-gadis bermain di taman.
+113,ولد,anak laki-laki,أولاد,anak-anak laki-laki,الْأَوْلَادُ يَدْرُسُونَ فِي الْمَدْرَسَةِ.,Anak-anak laki-laki belajar di sekolah.
+114,طريق,jalan,طرق,jalan-jalan,الطُّرُقُ فِي الْمَدِينَةِ مُزْدَحِمَةٌ.,Jalan-jalan di kota padat.
+115,بيت,rumah,بيوت,rumah-rumah,الْبُيُوتُ فِي الْقَرْيَةِ صَغِيرَةٌ.,Rumah-rumah di desa kecil.
+116,سوق,pasar,أسواق,pasar-pasar,الْأَسْوَاقُ مَلِيئَةٌ بِالْبِضَائِعِ.,Pasar-pasar penuh dengan barang-barang.
+117,مكان,tempat,أماكن,tempat-tempat,الْأَمَاكِنُ السِّيَاحِيَّةُ رَائِعَةٌ.,Tempat-tempat wisata indah.
+118,كتاب,buku,كتب,buku-buku,الْكُتُبُ مُفِيدَةٌ لِلْقِرَاءَةِ.,Buku-buku bermanfaat untuk dibaca.
+119,فيلم,film,أفلام,film-film,الْأَفْلَامُ تُعْرَضُ فِي السِّينِمَا.,Film-film ditayangkan di bioskop.
+120,صورة,gambar,صور,gambar-gambar,الصُّوَرُ تَزِيُّنُ الْجُدُرَانَ.,Gambar-gambar menghiasi dinding.
+121,اسم,nama,أسماء,nama-nama,الْأَسْمَاءُ مَشْهُورَةٌ فِي الْمُجْتَمَعِ.,Nama-nama terkenal di masyarakat.
+122,يوم,hari,أيام,hari-hari,الْأَيَّامُ تَمُرُّ بِسُرْعَةٍ.,Hari-hari berlalu dengan cepat.
+123,شهر,bulan,أشهر,bulan-bulan,الْأَشْهُرُ تَتَغَيَّرُ كُلَّ سَنَةٍ.,Bulan-bulan berubah setiap tahun.
+124,سنة,tahun,سنوات,tahun-tahun,السِّنُوَاتُ تَمُرُّ وَلَا تَعُودُ.,Tahun-tahun berlalu dan tidak kembali.
+125,فصل,musim/kelas,فصول,musim-musim/kelas-kelas,الْفُصُولُ الْأَرْبَعَةُ جَمِيلَةٌ.,Empat musim indah.
+126,دولة,negara,دول,negara-negara,الدُّوَلُ تَتَعَاوَنُ فِي الْمُؤْتَمَرَاتِ.,Negara-negara bekerja sama dalam konferensi.
+127,مدينة,kota,مدن,kota-kota,الْمُدُنُ كَبِيرَةٌ وَصَاخِبَةٌ.,Kota-kota besar dan ramai.
+128,طفل,anak kecil,أطفال,anak-anak kecil,الْأَطْفَالُ يَلْعَبُونَ فِي السَّاحَةِ.,Anak-anak bermain di halaman.
+129,قصة,cerita,قصص,cerita-cerita,الْقَصَصُ مُمْتَعَةٌ لِلْأَطْفَالِ.,Cerita-cerita menyenangkan untuk anak-anak.
+130,درس,pelajaran,دروس,pelajaran-pelajaran,الدُّرُوسُ مُفِيدَةٌ لِلتَّعْلِمِ.,Pelajaran-pelajaran bermanfaat untuk belajar.
+131,فكرة,ide,أفكار,ide-ide,الْأَفْكَارُ الْجَدِيدَةُ تَسَاهَمُ فِي التَّطْوِيرِ.,Ide-ide baru berkontribusi pada pengembangan.
+132,مشكلة,masalah,مشاكل,masalah-masalah,الْمُشَاكِلُ تَحْتَاجُ إِلَى حُلُولٍ.,Masalah-masalah membutuhkan solusi.
+133,حل,solusi,حلول,solusi-solusi,الْحُلُولُ تَأْتِي بَعْدَ التَّفْكِيرِ الْعَمِيقِ.,Solusi datang setelah pemikiran mendalam.
+134,عمل,pekerjaan,أعمال,pekerjaan-pekerjaan,الْأَعْمَالُ تَزْهَرُ فِي السُّوقِ.,Bisnis-bisnis berkembang di pasar.
+135,خبر,berita,أخبار,berita-berita,الْأَخْبَارُ تَنْتَشِرُ بِسُرْعَةٍ.,Berita menyebar dengan cepat.
+136,حدث,peristiwa,أحداث,peristiwa-peristiwa,الْأَحْدَاثُ تَحْدُثُ فِي كُلِّ يَوْمٍ.,Peristiwa-peristiwa terjadi setiap hari.
+137,سؤال,pertanyaan,أسئلة,pertanyaan-pertanyaan,الْأَسْئِلَةُ تَسَاعُدُ عَلَى الْفَهْمِ.,Pertanyaan-pertanyaan membantu dalam pemahaman.
+138,جواب,jawaban,أجوبة,jawaban-jawaban,الْأَجْوَبَةُ تَكُونُ مُفِيدَةً.,Jawaban-jawaban bermanfaat.
+139,كلمة,kata,كلمات,kata-kata,الْكَلِمَاتُ تَعْبُرُ عَنِ الْأَفْكَارِ.,Kata-kata mengekspresikan ide-ide.
+140,جملة,kalimat,جمل,kalimat-kalimat,الْجُمَلُ تَكُونُ النَّصُوصَ.,Kalimat-kalimat membentuk teks.
+141,هاتف,telepon,هواتف,telepon-telepon,الْهَوَاتِفُ الْحَدِيثَةُ مُتَطَوِّرَةٌ.,Telepon modern canggih.
+142,رسالة,surat,رسائل,surat-surat,الرَّسَائِلُ تَصِلُ بِسُرْعَةٍ.,Pesan-pesan tiba dengan cepat.
+143,برنامج,program,برامج,program-program,الْبَرَامِجُ التِّلْفِزْيُونِيَّةُ مُمْتَعَةٌ.,Program-program televisi menyenangkan.
+144,موقع,situs,مواقع,situs-situs,الْمَوَاقِعُ الإِلِكْتْرُونِيَّةُ مُفِيدَةٌ.,Situs web bermanfaat.
+145,نظام,sistem,أنظمة,sistem-sistem,الْأَنْظِمَةُ تَتَغَيَّرُ مَعَ الْوَقْتِ.,Sistem-sistem berubah seiring waktu.
+146,كتاب,buku,كتب,buku-buku,الْكُتُبُ تَحْتَوِي عَلَى الْمَعْرِفَةِ.,Buku-buku berisi pengetahuan.
+147,بيت,rumah,بيوت,rumah-rumah,,
+148,نافذة,jendela,نوافذ,jendela-jendela,النَّوافِذُ الكَبِيرَةُ في القَصْرِ تُطِلُّ على مَنَاظِرَ طَبِيعِيَّةٍ خَلَّابَةٍ.,Jendela-jendela besar di istana menghadap pemandangan alam yang menakjubkan.
+149,طريق,jalan,طرق,jalan-jalan,الطُّرُقُ السَّرِيعَةُ تُسَهِّلُ السَّفَرَ بَيْنَ المَدَانِ الكُبْرَى.,Jalan-jalan cepat memudahkan perjalanan antara kota-kota besar.
+150,ساعة,jam,ساعات,jam-jam,السَّاعَاتُ الفَاخِرَةُ تُعْرَضُ في وَاجِهَاتِ المَحَلَّاتِ الرَّاقِيَةِ.,Jam-jam mewah dipajang di jendela toko-toko mewah.
+151,درس,pelajaran,دروس,pelajaran-pelajaran,الدُّرُوسُ التِّفَاعُلِيَّةُ تَجْعَلُ التَّعَلُّمَ أَكْثَرَ مُتْعَةً وَفَعَالِيَّةً.,Pelajaran interaktif membuat pembelajaran lebih menyenangkan dan efektif.
+152,صورة,gambar,صور,gambar-gambar,الصُّوَرُ الفُوتُوغْرَافِيَّةُ القَدِيمَةُ تَحْكِي قِصَصاً مِنَ المَاضِي.,Foto-foto lama menceritakan kisah-kisah masa lalu.
+153,كلمة,kata,كلمات,kata-kata,الكَلِمَاتُ القَوِيَّةُ يُمْكِنُ أَنْ تُغَيِّرَ مَسَارَ الحَيَاةِ.,Kata-kata kuat dapat mengubah arah hidup.
+154,اسم,nama,أسماء,nama-nama,أَسْمَاءُ الأَبْطَالِ مَحْفُورَةٌ في صَفَحَاتِ التَّارِيخِ.,Nama-nama pahlawan terukir dalam halaman sejarah.
+155,سؤال,pertanyaan,أسئلة,pertanyaan-pertanyaan,الأَسْئِلَةُ الذَّكِيَّةُ تَقُودُ إِلَى اكْتِشَافَاتٍ عَظِيمَةٍ.,Pertanyaan cerdas mengarah pada penemuan-penemuan besar.
+156,جواب,jawaban,أجوبة,jawaban-jawaban,الأَجْوِبَةُ الصَّحِيحَةُ تَقُودُ إِلَى النَّجَاحِ وَالتَّفَوُّقِ.,Jawaban yang tepat membawa pada kesuksesan dan keunggulan.
+157,سيارة,mobil,سيارات,mobil-mobil,السَّيَّارَاتُ الكَهْرَبَائِيَّةُ تُعْتَبَرُ صَدِيقَةً لِلْبِيئَةِ.,Mobil listrik dianggap ramah lingkungan.
+158,كتاب,buku,كتب,buku-buku,الكُتُبُ النَّادِرَةُ تَحْتَفِظُ بِهَا المَكْتَبَاتُ الكَبِيرَةُ بِعِنَايَةٍ.,Buku-buku langka dijaga dengan hati-hati di perpustakaan besar.
+159,مسجد,masjid,مساجد,masjid-masjid,المَسَاجِدُ القَدِيمَةُ تَعْكِسُ الفَنَّ الإِسْلَامِيَّ الرَّائِعَ.,Masjid-masjid kuno mencerminkan seni Islam yang indah.
+160,مطعم,restoran,مطاعم,restoran-restoran,المَطَاعِمُ الفَاخِرَةُ تُقَدِّمُ أَطْبَاقاً مِنْ مُخْتَلِفِ الثَّقَافَاتِ.,Restoran-restoran mewah menyajikan hidangan dari berbagai budaya.
+161,هدية,hadiah,هدايا,hadiah-hadiah,الهَدَايَا الفَاخِرَةُ تَمْلَأُ القَلْبَ بِالفَرَحِ.,Hadiah-hadiah mewah mengisi hati dengan kebahagiaan.
+162,شهر,bulan,شهور,bulan-bulan,الشُّهُورُ الصَّيْفِيَّةُ تَشْهَدُ العَدِيدَ مِنَ المَهْرَجَانَاتِ.,Bulan-bulan musim panas menyaksikan banyak festival.
+163,يوم,hari,أيام,hari-hari,الأَيَّامُ المُمْطِرَةُ تُضْفِي جَمَالاً خَاصّاً عَلَى المَدِينَةِ.,Hari-hari hujan menambah keindahan kota.
+164,مدرسة,sekolah,مدارس,sekolah-sekolah,المَدَارِسُ النَّمُوذَجِيَّةُ تَعْتَمِدُ عَلَى أَحْدَثِ أَسَالِيبِ التَّعْلِيمِ.,Sekolah-sekolah model mengadopsi metode pengajaran terbaru.
+165,فصل,kelas,فصول,kelas-kelas,الفُصُولُ الدِّرَاسِيَّةُ مُجَهَّزَةٌ بِأَحْدَثِ التِّقْنِيَاتِ.,Kelas-kelas sekolah dilengkapi dengan teknologi terkini.
+166,قلم,pena,أقلام,pena-pena,الأَقْلَامُ الذَّهَبِيَّةُ تُعْتَبَرُ هَدَايَا قَيِّمَةً.,Pulpen emas dianggap sebagai hadiah berharga.
+167,كلمة,kata,كلمات,kata-kata,الكَلِمَاتُ اللَّطِيفَةُ تَتْرُكُ أَثَراً إِيجَابِيّاً فِي النُّفُوسِ.,Kata-kata indah meninggalkan dampak positif pada jiwa.
+168,جملة,kalimat,جمل,kalimat-kalimat,الجُمَلُ الأَدَبِيَّةُ تُلَامِسُ القُلُوبَ بِرِقَّتِهَا.,Kalimat sastra menyentuh hati dengan kehalusan.
+169,مكان,tempat,أماكن,tempat-tempat,الأَمَاكِنُ التَّارِيخِيَّةُ تَجْذِبُ السُّيَّاحَ مِنْ كُلِّ أَنْحَاءِ العَالَمِ.,Tempat-tempat bersejarah menarik wisatawan dari seluruh dunia.
+170,صفحة,halaman,صفحات,halaman-halaman,الصَّفَحَاتُ الأَخِيرَةُ مِنَ الكِتَابِ كَانَتْ مُشَوِّقَةً جِدّاً.,Halaman-halaman terakhir buku itu sangat menarik.
+171,كراسة,buku catatan,كراسات,buku catatan,الكُرَّاسَاتُ المُلَوَّنَةُ تَجْعَلُ الدِّرَاسَةَ مُتْعَةً لِلأَطْفَالِ.,Buku-buku catatan berwarna membuat belajar menjadi menyenangkan bagi anak-anak.
+172,ثوب,pakaian,ثياب,pakaian-pakaian,الثِّيَابُ التَّقْلِيدِيَّةُ تَعْكِسُ ثَقَافَةَ الشُّعُوبِ.,Pakaian tradisional mencerminkan budaya suatu bangsa.
+173,رأس,kepala,رؤوس,kepala-kepala,رُؤُوسُ الجِبَالِ مُغَطَّاةٌ بِالثُّلُوجِ البَيْضَاءِ.,Puncak-puncak gunung tertutupi salju putih.
+174,يد,tangan,أيدي,tangan-tangan,الأَيْدِي المَاهِرَةُ تُبْدِعُ فِي الأَعْمَالِ الفَنِّيَّةِ.,Tangan-tangan terampil menciptakan karya seni yang indah.
+175,عين,mata,عيون,mata-mata,العُيُونُ الزَّرْقَاءُ تَلْمَعُ تَحْتَ ضَوْءِ الشَّمْسِ.,Mata-mata biru berkilau di bawah sinar matahari.
+176,قدم,kaki,أقدام,kaki-kaki,الأَقْدَامُ السَّرِيعَةُ تَفُوزُ فِي سِبَاقَاتِ الجَرْيِ.,Kaki-kaki cepat memenangkan perlombaan lari.
+177,أصبع,jari,أصابع,jari-jari,الأَصَابِعُ الرَّقِيقَةُ تُعْزِفُ أَلْحَاناً جَمِيلَةً عَلَى البِيَانُو.,Jari-jari halus memainkan lagu-lagu indah di piano.
+178,رجل,pria,رجال,pria-pria,الرِّجَالُ الشُّجْعَانُ يَقِفُونَ فِي وَجْهِ الظُّلْمِ.,Lelaki berani berdiri menghadapi ketidakadilan.
+179,إمرأة,wanita,نساء,wanita-wanita,النِّسَاءُ الرَّائِدَاتُ يُسَاهِمْنَ فِي تَطْوِيرِ المُجْتَمَعِ.,Wanita pemimpin berkontribusi dalam pengembangan masyarakat.
+180,طالب,pelajar,طلاب,pelajar-pelajar,الطُّلَّابُ المُتَفَوِّقُونَ يَحْصُلُونَ عَلَى جَوَائِزِ التَّمَيُّزِ.,Siswa-siswa berprestasi meraih penghargaan keunggulan.
+181,معلم,guru,معلمون,guru-guru,المُعَلِّمُونَ المُخْلِصُونَ يُلْهِمُونَ الطُّلَّابَ لِتَحْقِيقِ أَحْلَامِهِمْ.,Guru-guru yang berdedikasi menginspirasi siswa untuk mewujudkan impian mereka.
+182,رجل,laki-laki,رجال,laki-laki,,
+183,تلميذ,murid,تلاميذ,murid-murid,التَّلَامِيذُ المُجْتَهِدُونَ يُحَقِّقُونَ نَجَاحَاتٍ بَاهِرَةٍ.,Siswa-siswa rajin mencapai kesuksesan gemilang.
+184,جندي,tentara,جنود,tentara-tentara,الجُنُودُ البَوَاسِلُ يُدَافِعُونَ عَنِ الوَطَنِ بِكُلِّ شَجَاعَةٍ.,Tentara-tentara pahlawan membela tanah air dengan keberanian.
+185,بستان,kebun,بساتين,kebun-kebun,بُسَاتِينُ الْبُرْتُقَالِ تُعْطِي رَائِحَةً مُنْعِشَةً فِي الصَّبَاحِ.,Kebun jeruk memberikan aroma segar di pagi hari.
+186,قصة,cerita,قصص,cerita-cerita,قُصُصُ الْأَطْفَالِ تَحْمِلُ فِي طَيَّاتِهَا حِكْمًا عَمِيقًا.,Cerita-cerita anak-anak mengandung hikmah yang dalam.
+187,جريدة,koran,جرائد,koran-koran,جَرَائِدُ الْيَوْمِ تُنَقِّلُ آخِرَ الْأَخْبَارِ وَالتَّطْوُرَاتِ.,Surat kabar hari ini menginformasikan berita dan perkembangan terbaru.
+188,حقيبة,tas,حقائب,tas-tas,حَقَائِبُ السَّفَرِ تَحْمِلُ كُلَّ مَا يَلْزَمُ لِرَحْلَةٍ مُمْتِعَةٍ.,Tas-tas perjalanan membawa segala yang diperlukan untuk perjalanan yang menyenangkan.
+189,صورة,gambar,صور,gambar-gambar,صُوَرُ الطَّبِيعَةِ تُبْعَثُ السُّكِينَةَ فِي النُّفُوسِ.,Foto-foto alam membawa ketenangan bagi jiwa.
+190,شجرة,pohon,أشجار,pohon-pohon,أَشْجَارُ الصَّنْوَبِرِ تُمْنَحُ الْهُدُوءَ فِي أَيَّامِ الشِّتَاءِ.,Pohon-pohon pinus memberikan ketenangan di musim dingin.
+191,غابة,hutan,غابات,hutan-hutan,غَابَاتُ الْأَمَازُونِ تَمْتَلِكُ تَنَوُّعًا بِيُولُوجِيًّا مُذْهِلًا.,Hutan Amazon memiliki keragaman biologis yang menakjubkan.
+192,جبل,gunung,جبال,gunung-gunung,جِبَالُ الْهِمَالَايَا تَجْذِبُ الْمُتَسَلِّقِينَ مِنْ كُلِّ أَنْحَاءِ الْعَالَمِ.,Pegunungan Himalaya menarik para pendaki dari seluruh dunia.
+193,نهر,sungai,أنهار,sungai-sungai,أَنْهَارُ النِّيلِ تُرَوِّي الْأَرَاضِيَ وَتُنْشِرُ الْخُصُبَةَ.,Sungai Nil mengairi tanah dan menyebarkan kesuburan.
+194,بحر,laut,بحار,laut-laut,بُحُورُ الْبَحْرِ الْمُتَوَسِّطِ تَحْتَضِنُ حَيَاةً بَحْرِيَّةً مُتَنَوِّعَةً.,Lautan Mediterania mendukung kehidupan laut yang beragam.
+195,قمر,bulan (satelit),أقمار,bulan-bulan (satelit),,
+196,نجم,bintang,نجوم,bintang-bintang,,
+197,سيارة,mobil,سيارات,mobil-mobil,,
+198,قطار,kereta,قطارات,kereta-kereta,,
+199,طائرة,pesawat,طائرات,pesawat-pesawat,,
+200,مطار,bandara,مطارات,bandara-bandara,,
+201,سفينة,kapal,سفن,kapal-kapal,,
+202,سوق,pasar,أسواق,pasar-pasar,,
+203,مطعم,restoran,مطاعم,restoran-restoran,,
+204,كتاب,buku,كتب,buku-buku,,
+205,مدينة,kota,مدن,kota-kota,,
+206,قرية,desa,قرى,desa-desa,,
+207,شارع,jalan,شوارع,jalan-jalan,,
+208,بناية,bangunan,بنايات,bangunan-bangunan,,
+209,حديقة,taman,حدائق,taman-taman,,
+210,زهرة,bunga,زهور,bunga-bunga,,
+211,فاكهة,buah,فواكه,buah-buahan,,
+212,خضار,sayuran,خضروات,sayuran-sayuran,,
+213,خروف,domba,خراف,domba-domba,,
+214,بقرة,sapi,بقر,sapi-sapi,,
+215,حصان,kuda,حصن,kuda-kuda,,
+216,دجاجة,ayam,دجاج,ayam-ayam,,
+217,سمكة,ikan,أسماك,ikan-ikan,,
+218,جمل,unta,جمال,unta-unta,,
+219,ثعلب,rubah,ثعالب,rubah-rubah,,
+220,أسد,singa,أسود,singa-singa,,
+221,نمر,macan,نمور,macan-macan,,
+222,فيل,gajah,أفيال,gajah-gajah,,
+223,ذئب,serigala,ذئاب,serigala-serigala,,
+224,أرنب,kelinci,أرانب,kelinci-kelinci,,
+225,فأر,tikus,فئران,tikus-tikus,,
+226,ثعبان,ular,ثعابين,ular-ular,,
+227,طائر,burung,طيور,burung-burung,,
+228,حشرة,serangga,حشرات,serangga-serangga,,
+229,بيت,rumah,بيوت,rumah-rumah,,
+230,شباك,jendela,شبابيك,jendela-jendela,,
+231,باب,pintu,أبواب,pintu-pintu,,
+232,غرفة,kamar,غرف,kamar-kamar,,
+233,مطبخ,dapur,مطابخ,dapur-dapur,,
+234,حمام,kamar mandi,حمامات,kamar mandi-kamar mandi,,
+235,سطح,atap,أسطح,atap-atap,,
+236,كتاب,buku,كتب,buku-buku,,
+237,معلم,guru,معلمون,guru-guru,,
+238,طبيب,dokter,أطباء,dokter-dokter,,
+239,طالب,murid,طلاب,murid-murid,,
+240,فصل,kelas,فصول,kelas-kelas,,
+241,كراسة,buku catatan,كراسات,buku catatan-buku catatan,,
+242,قلعة,benteng,قلاع,benteng-benteng,,
+243,حائط,dinding,حيطان,dinding-dinding,,
+244,مرآة,cermin,مرايا,cermin-cermin,,
+245,طريق,jalan,طرق,jalan-jalan,,
+246,شجرة,pohon,أشجار,pohon-pohon,,
+247,زهرة,bunga,زهور,bunga-bunga,,
+248,جبل,gunung,جبال,gunung-gunung,,
+249,بحر,laut,بحار,laut-laut,,
+250,نهر,sungai,أنهار,sungai-sungai,,
+251,سيارة,mobil,سيارات,mobil-mobil,,
+252,دراجة,sepeda,دراجات,sepeda-sepeda,,
+253,قطار,kereta api,قطارات,kereta api-kereta api,,
+254,حافلة,bus,حافلات,bus-bus,,
+255,طائرة,pesawat terbang,طائرات,pesawat terbang-pesawat terbang,,
+256,سفينة,kapal,سفن,kapal-kapal,,
+257,مطعم,restoran,مطاعم,restoran-restoran,,
+258,فندق,hotel,فنادق,hotel-hotel,,
+259,مستشفى,rumah sakit,مستشفيات,rumah sakit-rumah sakit,,
+260,مدرسة,sekolah,مدارس,sekolah-sekolah,,
+261,جامعة,universitas,جامعات,universitas-universitas,,
+262,مكتبة,perpustakaan,مكتبات,perpustakaan-perpustakaan,,
+263,مدينة,kota,مدن,kota-kota,,
+264,قرية,desa,قرى,desa-desa,,
+265,شاطئ,pantai,شواطئ,pantai-pantai,,
+266,جزيرة,pulau,جزر,pulau-pulau,,
+267,حديقة,taman,حدائق,taman-taman,,
+268,مطبخ,dapur,مطابخ,dapur-dapur,,
+269,حمام,kamar mandi,حمامات,kamar mandi-kamar mandi,,
+270,حديقة حيوان,kebun binatang,حدائق حيوان,kebun binatang-kebun binatang,,
+271,منتزه,taman rekreasi,منتزهات,taman rekreasi-taman rekreasi,,
+272,مسرح,teater,مسارح,teater-teater,,
+273,سينما,bioskop,سينمات,bioskop-bioskop,,
+274,متجر,toko,متاجر,toko-toko,,
+275,سوق,pasar,أسواق,pasar-pasar,,
+276,محل,toko kecil,محلات,toko kecil-toko kecil,,
+277,مكتب,kantor,مكاتب,kantor-kantor,,
+278,عامل,pekerja,عمال,pekerja-pekerja,,
+279,مدير,manajer,مديرون,manajer-manajer,,
+280,موظف,karyawan,موظفون,karyawan-karyawan,,
+281,فريق,tim,فرق,tim-tim,,
+282,مباراة,pertandingan,مباريات,pertandingan-pertandingan,,
+283,ملعب,lapangan,ملاعب,lapangan-lapangan,,
+284,هدف,tujuan/gol,أهداف,tujuan/gol-tujuan/gol,,
+285,جائزة,hadiah,جوائز,hadiah-hadiah,,
+286,نافذة,jendela,نوافذ,jendela-jendela,,
+287,باب,pintu,أبواب,pintu-pintu,,
+288,سور,pagar,أسوار,pagar-pagar,,
+289,جبل,gunung,جبال,gunung-gunung,,
+290,وطن,tanah air,أوطان,tanah air-tanah air,,
+291,كتاب,buku,كتب,buku-buku,,
+292,غرفة,kamar,غرف,kamar-kamar,,
+293,بيت,rumah,بيوت,rumah-rumah,,
+294,باب,pintu,أبواب,pintu-pintu,,
+295,صديق,teman,أصدقاء,teman-teman,,
+296,عامل,pekerja,عمال,pekerja-pekerja,,
+297,طريق,jalan,طرق,jalan-jalan,,
+298,رئيس,pemimpin,رؤساء,pemimpin-pemimpin,,
+299,وزير,menteri,وزراء,menteri-menteri,,
+300,عالم,ilmuwan,علماء,ilmuwan-ilmuwan,,
+301,طفل,anak,أطفال,anak-anak,,
+302,عائلة,keluarga,عائلات,keluarga-keluarga,,
+303,سيارة,mobil,سيارات,mobil-mobil,,
+304,قلم,pena,أقلام,pena-pena,,
+305,طاولة,meja,طاولات,meja-meja,,
+306,كرسي,kursi,كراسي,kursi-kursi,,
+307,صورة,gambar,صور,gambar-gambar,,
+308,خاتم,cincin,خواتم,cincin-cincin,,
+309,جدار,dinding,جدران,dinding-dinding,,
+310,ضيف,tamu,ضيوف,tamu-tamu,,
+311,بيت,rumah,بيوت,rumah-rumah,,
+312,حفلة,pesta,حفلات,pesta-pesta,,
+313,فريق,tim,فرق,tim-tim,,
+314,بحر,laut,بحار,laut-laut,,
+315,نهر,sungai,أنهار,sungai-sungai,,
+316,جبل,gunung,جبال,gunung-gunung,,
+317,مكان,tempat,أماكن,tempat-tempat,,
+318,قمر,bulan (satellite),أقمار,bulan-bulan (satellite),,
+319,نجم,bintang,نجوم,bintang-bintang,,
+320,نبتة,tanaman,نباتات,tanaman-tanaman,,
+321,كرسي,kursi,كراسي,kursi-kursi,,
+322,نافذة,jendela,نوافذ,jendela-jendela,,
+323,فصل,kelas,فصول,kelas-kelas,,
+324,مصنع,pabrik,مصانع,pabrik-pabrik,,
+325,لعبة,mainan,ألعاب,mainan-mainan,,
+326,هاتف,telepon,هواتف,telepon-telepon,,
+327,مدينة,kota,مدن,kota-kota,,
+328,حديقة,taman,حدائق,taman-taman,,
+329,مطعم,restoran,مطاعم,restoran-restoran,,
+330,مكتبة,perpustakaan,مكتبات,perpustakaan-perpustakaan,,
+331,ساعة,jam,ساعات,jam-jam,,
+332,مدرسة,sekolah,مدارس,sekolah-sekolah,,
+333,طائرة,pesawat terbang,طائرات,pesawat terbang-pesawat terbang,,
+334,شاطئ,pantai,شواطئ,pantai-pantai,,
+335,بحر,laut,بحار,laut-laut,,
+336,دكان,toko,دكاكين,toko-toko,,
+337,طريق,jalan,طرق,jalan-jalan,,
+338,درس,pelajaran,دروس,pelajaran-pelajaran,,
+339,حالة,kasus,حالات,kasus-kasus,,
+340,بنت,anak perempuan,بنات,anak-anak perempuan,,
+341,حفيد,cucu,أحفاد,cucu-cucu,,
+342,حفيدة,cucu perempuan,حفيدات,cucu-cucu perempuan,,
+343,هدية,hadiah,هدايا,hadiah-hadiah,,
+344,مفتاح,kunci,مفاتيح,kunci-kunci,,
+345,عصفور,burung kecil,عصافير,burung-burung kecil,,
+346,قط,kucing,قطط,kucing-kucing,,
+347,كلب,anjing,كلاب,anjing-anjing,,
+348,ثوب,pakaian,ثياب,pakaian-pakaian,,
+349,شجرة,pohon,أشجار,pohon-pohon,,
+350,باب,pintu,أبواب,pintu-pintu,,
+351,نافذة,jendela,نوافذ,jendela-jendela,,
+352,سماء,langit,سماوات,langit-langit,,
+353,غيمة,awan,غيوم,awan-awan,,
+354,نجم,bintang,نجوم,bintang-bintang,,
+355,قمر,bulan (satellite),أقمار,bulan-bulan (satellite),,
+356,شاطئ,pantai,شواطئ,pantai-pantai,,
+357,طاولة,meja,طاولات,meja-meja,,
+358,كرسي,kursi,كراسي,kursi-kursi,,
+359,صورة,gambar,صور,gambar-gambar,,
+360,خاتم,cincin,خواتم,cincin-cincin,,
+361,جدار,dinding,جدران,dinding-dinding,,
+362,ضيف,tamu,ضيوف,tamu-tamu,,
+363,بيت,rumah,بيوت,rumah-rumah,,
+364,حفلة,pesta,حفلات,pesta-pesta,,
+365,فريق,tim,فرق,tim-tim,,
+366,بحر,laut,بحار,laut-laut,,
+367,نهر,sungai,أنهار,sungai-sungai,,
+368,جبل,gunung,جبال,gunung-gunung,,
+369,مكان,tempat,أماكن,tempat-tempat,,
+370,نافذة,jendela,نوافذ,jendela-jendela,,
+371,صورة,gambar,صور,gambar-gambar,,
+372,سيارة,mobil,سيارات,mobil-mobil,,
+373,رحلة,perjalanan,رحلات,perjalanan-perjalanan,,
+374,فكرة,ide,أفكار,ide-ide,,
+375,مدينة,kota,مدن,kota-kota,,
+376,شجرة,pohon,أشجار,pohon-pohon,,
+377,شارع,jalan,شوارع,jalan-jalan,,
+378,مصنع,pabrik,مصانع,pabrik-pabrik,,
+379,مكتبة,perpustakaan,مكتبات,perpustakaan-perpustakaan,,
+380,مدرسة,sekolah,مدارس,sekolah-sekolah,,
+381,شاطئ,pantai,شواطئ,pantai-pantai,,
+382,سفينة,kapal,سفن,kapal-kapal,,
+383,قلعة,benteng,قلاع,benteng-benteng,,
+384,لعبة,mainan,ألعاب,mainan-mainan,,
+385,ورقة,kertas,أوراق,kertas-kertas,,
+386,قلم,pena,أقلام,pena-pena,,
+387,كتاب,buku,كتب,buku-buku,,
+388,حقيبة,tas,حقائب,tas-tas,,
+389,درس,pelajaran,دروس,pelajaran-pelajaran,,
+390,خزانة,lemari,خزائن,lemari-lemari,,
+391,نافذة,jendela,نوافذ,jendela-jendela,,
+392,كرسي,kursi,كراسي,kursi-kursi,,
+393,سرير,tempat tidur,أسرة,tempat tidur-tempat tidur,,
+394,سيارة,mobil,سيارات,mobil-mobil,,
+395,قطار,kereta,قطارات,kereta-kereta,,
+396,باخرة,kapal laut,بواخر,kapal laut-kapal laut,,
+397,جسر,jembatan,جسور,jembatan-jembatan,,
+398,غرفة,kamar,غرف,kamar-kamar,,
+399,باب,pintu,أبواب,pintu-pintu,,
+400,طريق,jalan,طرق,jalan-jalan,,
+401,شجرة,pohon,أشجار,pohon-pohon,,
+402,وردة,bunga,ورود,bunga-bunga,,
+403,زهرة,bunga,زهور,bunga-bunga,,
+404,سيارة,mobil,سيارات,mobil-mobil,,
+405,حافلة,bus,حافلات,bus-bus,,
+406,دراجة,sepeda,دراجات,sepeda-sepeda,,
+407,قارب,perahu,قوارب,perahu-perahu,,
+408,طائرة,pesawat terbang,طائرات,pesawat terbang-pesawat terbang,,
+409,رجل,laki-laki,رجال,laki-laki,,
+410,امرأة,perempuan,نساء,perempuan,,
+411,طفل,anak,أطفال,anak-anak,,
+412,مدرسة,sekolah,مدارس,sekolah-sekolah,,
+413,معلم,guru,معلمون,guru-guru,,
+414,طالب,murid,طلاب,murid-murid,,
+415,كتاب,buku,كتب,buku-buku,,
+416,دفتر,buku catatan,دفاتر,buku catatan-buku catatan,,
+417,ممحاة,penghapus,ممحاة,penghapus-penghapus,,
+418,مسطرة,penggaris,مساطر,penggaris-penggaris,,
+419,حاسوب,komputer,حواسيب,komputer-komputer,,
+420,هاتف,telepon,هواتف,telepon-telepon,,
+421,مروحة,kipas,مراوح,kipas-kipas,,
+422,مصباح,lampu,مصابيح,lampu-lampu,,
+423,صورة,gambar,صور,gambar-gambar,,
+424,إطار,bingkai,إطارات,bingkai-bingkai,,
+425,شاشة,layar,شاشات,layar-layar,,
+426,كاميرا,kamera,كاميرات,kamera-kamera,,
+427,مكواة,setrika,مكوات,setrika-setrika,,
+428,طبق,piring,أطباق,piring-piring,,
+429,كوب,gelas,أكواب,gelas-gelas,,
+430,شوكة,garpu,شوك,garpu-garpu,,
+431,سكين,pisau,سكاكين,pisau-pisau,,
+432,ملعقة,sendok,ملاعق,sendok-sendok,,
+433,وعاء,wadah,أوعية,wadah-wadah,,
+434,قدر,panci,قدور,panci-panci,,
+435,مقلاة,wajan,مقالي,wajan-wajan,,
+436,مكيف,AC,مكيفات,AC-AC,,
+437,قفل,kunci,أقفال,kunci-kunci,,
+438,بطاقة,kartu,بطاقات,kartu-kartu,,
+439,فرشاة,sikat,فرش,sikat-sikat,,
+440,كنبة,sofa,كنبات,sofa-sofa,,
+441,مصعد,lift,مصاعد,lift-lift,,
+442,سلم,tangga,سلالم,tangga-tangga,,
+443,طاولة,meja,طاولات,meja-meja,,
+444,وسادة,bantal,وسائد,bantal-bantal,,
+445,بطانية,selimut,بطانيات,selimut-selimut,,
+446,مرآة,cermin,مرايا,cermin-cermin,,
+447,قدر,panci,قدور,panci-panci,,
+448,مكنسة,sapu,مكانس,sapu-sapu,,
+449,زجاجة,botol,زجاجات,botol-botol,,
+450,قنينة,botol,قنانٍ,botol-botol,,
+451,إناء,wadah,أواني,wadah-wadah,,
+452,سلة,keranjang,سلال,keranjang-keranjang,,
+453,صندوق,kotak,صناديق,kotak-kotak,,
+454,حقيبة,tas,حقائب,tas-tas,,
+455,شمسية,payung,شمسيات,payung-payung,,
+456,مروحة,kipas,مراوح,kipas-kipas,,
+457,مجلة,majalah,مجلات,majalah-majalah,,
+458,صحيفة,koran,صحف,koran-koran,,
+459,رسالة,surat,رسائل,surat-surat,,
+460,مظروف,amplop,مظاريف,amplop-amplop,,
+461,طابع,perangko,طوابع,perangko-perangko,,
+462,ورقة,kertas,أوراق,kertas-kertas,,
+463,ثوب,pakaian,ثياب,pakaian-pakaian,,
+464,قميص,kemeja,قمصان,kemeja-kemeja,,
+465,بنطال,celana,بناطيل,celana-celana,,
+466,حذاء,sepatu,أحذية,sepatu-sepatu,,
+467,جورب,kaus kaki,جوارب,kaus kaki-kaus kaki,,
+468,معطف,mantel,معاطف,mantel-mantel,,
+469,قبعة,topi,قبعات,topi-topi,,
+470,نظارة,kacamata,نظارات,kacamata-kacamata,,
+471,ساعة,jam tangan,ساعات,jam tangan-jam tangan,,
+472,حقيبة,tas,حقائب,tas-tas,,
+473,سلسلة,rantai,سلاسل,rantai-rantai,,
+474,خاتم,cincin,خواتم,cincin-cincin,,
+475,عقد,kalung,عقود,kalung-kalung,,
+476,قرط,anting,أقراط,anting-anting,,
+477,سوار,gelang,أساور,gelang-gelang,,
+478,ملعقة,sendok,ملاعق,sendok-sendok,,
+479,شوكة,garpu,شوك,garpu-garpu,,
+480,سكين,pisau,سكاكين,pisau-pisau,,
+481,طبق,piring,أطباق,piring-piring,,
+482,كوب,gelas,أكواب,gelas-gelas,,
+483,وعاء,mangkuk,أوعية,mangkuk-mangkuk,,
+484,مكنسة,sapu,مكانس,sapu-sapu,,
+485,مجرفة,sekop,مجارف,sekop-sekop,,
